@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @rexquadry
-- 👀 I’m interested in Typescript and Javascript
-- 🌱 I’m currently learning React and Vue
-- 💞️ I’m looking to collaborate on NodeJS/ExpressJS/NestJS
+- 👀 I’m interested in Typescript, Javascript and PHP
+- 🌱 I’m currently learning Go, Vue and Laravel
+- 💞️ I’m looking to collaborate on NodeJS/ExpressJS/NestJS, React/NextJS
+- Most of my work are on Gitlab https://gitlab.com/rex_quadry
 - 📫 How to reach me rex.quadry@gmail.com
 
 <!---
